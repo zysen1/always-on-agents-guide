@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+*.sqlite3
+*.sqlite3-*
+pending.json
+approved.json
